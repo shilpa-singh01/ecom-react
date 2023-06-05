@@ -1,0 +1,11 @@
+a{
+text-decoration: none !important;
+
+}
+/* a:focus{
+   border-bottom: 1px solid white;
+} */
+.app{
+   display: flex;
+   justify-content: center;
+}
